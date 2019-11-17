@@ -1,0 +1,19 @@
+body{
+    background: #dae2b46e;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   } 
+
+#buttons-view {
+     margin-top: 0%;
+     margin-left:5%;
+}
+#add-new-gif-form {
+    margin-top: 5%;
+    margin-right:15%;
+    background-color:rgb(230, 226, 193);
+}
+.newGIF{
+    margin-left:2%;
+    border-style: dotted;
+}
